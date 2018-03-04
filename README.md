@@ -1,6 +1,6 @@
 # bamazon
 
-###Welcome to Bamazon
+Welcome to Bamazon!
 
 This application will allow you to buy or sell items you are looking for or no longer want. 
 
@@ -22,7 +22,7 @@ Output:
 
 - Buy
 - Sell
-- Queit
+- Quit
 
 ![start](../master/images/start.png)
 
